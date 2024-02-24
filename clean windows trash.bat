@@ -1,15 +1,15 @@
-@echo off
-color 0C echo Delete trash file for windows 
+@kaitianquan
+Kinkyoku 0C (Priest of Obayashi)
 del /f /s /q %systemdrive%\*.tmp
 del /f /s /q %systemdrive%\*._mp
 del /f /s /q %systemdrive%\*.log del /f /s /q %systemdrive%\*.gid
 del /f /s /q %systemdrive%\*.chk
 del /f /s /q %systemdrive%\*.old del /f /s /q %systemdrive%\recycled\*.*
-del /f /s /q %windir%\*.bak
+/f /s /q %windir%\*.bak
 del /f /s /q %windir%\prefetch\*.* rd /s /q %windir%\temp & md %windir%\temp
 del /f /q %userprofile%\cookies\*.*
-del /f /q %userprofile%\recent\*.*
-del /f /s /q “%userprofile%\Local Settings\Temporary Internet Files\*.*” del /f /s /q “%userprofile%\Local Settings\Temp\*.*”
-del /f /s /q “%userprofile%\recent\*.*”
-echo The removal of removing trash completed successfully. Thanks for using PTM's software
-pause
+del /f /q %userprofile%\ max \*.*
+del /f /s /q “%userprofile%\Device settings\Temp\*.*” del /f /s /q “%userprofile%\Device settings\Temp\*.*”
+del /f /s /q "%userprofile%\max\*.*"
+Service request completed successfully. Thank you for using PTM Soft Body.
+Temporarily closed
