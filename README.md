@@ -1,3 +1,9 @@
+# q and a
+WHAT IS THIS?
+this IS MY OLD REPO ABOUT MY TRASH FILE DELETER. FOR NEWER, CHECK https://github.com/wikiepeidia/clean-temporary-files-script
+PURPOSE NOW: USIG GOOGLE TRANSLATE TO GET THE BEST TRASH STUFF EVER! 
+BATCH FILE WILL NOT WORK AND I USED GG TRANSLATE TO DESTROY IT !
+
 The main purpose of the tour is organization.
 Product name absent (National/Regional Office 1563352).
 
